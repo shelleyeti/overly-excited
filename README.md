@@ -1,1 +1,3 @@
-#Overly Excited from practice
+Overly Excited from practice
+
+Created a function to add "!" after a string
